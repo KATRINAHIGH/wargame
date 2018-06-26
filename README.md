@@ -1,10 +1,10 @@
-#War of Cards
+# War of Cards
 
 This game is a project created for Deacom as part of their hiring process. It’s purpose is to show my 
 understanding of OOP principles by modelling objects from the real world. For example, a Deck consists
  of several Card objects and a Game is played with a Deck.
 
-##This is how the game works:
+## This is how the game works:
 This is how the game works:
 War is a card game for two players. A standard deck of 52 cards is dealt so that both players have 26 
 cards. In war, each card generally has one of thirteen possible predetermined values-two through Ace. 
@@ -18,14 +18,14 @@ If either player runs out of cards during war to play, he loses the game. The pl
 52 cards leaving an opponent with no cards is the winner. 
 Note: it is possible for a Game of war to be infinite. I accounted for this by putting a max limit on the game of 26 rounds. The winner at this point is whomever has the most cards in his/her deck.
 
-##Features
+## Features
 1. Language used Java 8 with IntelliJ IDE
 2. Unit tests written with the Junit framework.
 3. 98% test code coverage measured with . //check this
 4. Build and dependencies managed with Apache Maven.
 5. Hosted on GitHub.
 
-##Usage
+## Usage
 This game is automated, once started it will run until there is a winner declared. It's you
 against the CPU.
 
