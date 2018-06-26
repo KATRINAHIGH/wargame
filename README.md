@@ -21,9 +21,8 @@ Note: it is possible for a Game of war to be infinite. I accounted for this by p
 ## Features
 1. Language used Java 8 with IntelliJ IDE
 2. Unit tests written with the Junit framework.
-3. 98% test code coverage measured with . //check this
-4. Build and dependencies managed with Apache Maven.
-5. Hosted on GitHub.
+3. Build and dependencies managed with Apache Maven.
+4. Hosted on GitHub.
 
 ## Usage
 This game is automated, once started it will run until there is a winner declared. It's you
